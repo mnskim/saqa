@@ -2,7 +2,7 @@
 
 This repository contains the implementation of the SAQA model and the HotpotQA experiments included in "Improving Reasoning in Multi-Hop QA with Self-attention". 
 
-The test set results can be found at the [HotpotQA leaderboard](https://hotpotqa.github.io)
+The test set results can be found at the [HotpotQA leaderboard](https://hotpotqa.github.io).
 
 The base code is from the official [HotpotQA repository](https://github.com/hotpotqa/hotpot).
 
